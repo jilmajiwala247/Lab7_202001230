@@ -639,9 +639,9 @@ Below is the list of possible Invalid Triangle cases
 ---
 
 # Section B
-1. Control Flow Graph (CFG):
+### 1. Control Flow Graph (CFG):
 
-
+![Alt Text](SE_Lab7.jpg)
 
 ### 2. Criteria specific test case for flow graph
 
